@@ -1,5 +1,9 @@
 ### 🏖️ Dylon
 <div style="page-break-after: always;"></div>
+Im currently a student at Stockton University studying Computer Science.
+
+
+### 🥇 Stats
 
 
 
