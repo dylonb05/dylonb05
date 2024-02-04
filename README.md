@@ -1,6 +1,7 @@
 ### 🏖️ Dylon
 <div style="page-break-after: always;"></div>
-Im currently a student at Stockton University studying Computer Science.
+Im currently a freshman at Stockton University studying Computer Science. I've currently passed Programming &
+Problem Solving I, Programming & Problem Solving II, and Im currently taking Data Structures and Algorithms I.
 
 
 ### 🥇 Stats
